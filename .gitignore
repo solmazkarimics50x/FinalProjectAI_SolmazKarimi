@@ -1,49 +1,6 @@
-# Python cache
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
 
 # Ignore Python cache files
 __pycache__/
 *.pyc
 
-# Virtual environments
-env/
-venv/
-virtualenv/
 
-# Build and distribution
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# IDE
-.idea/
-.vscode/
-*.swp
-*.swo
-*.sublime-project
-*.sublime-workspace
-
-# OS
-.DS_Store
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-
-# Large files (consider excluding these if they're very big)
-*.mp4
-*.zip
