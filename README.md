@@ -2,9 +2,9 @@
 
 **An Interactive Machine Learning Desktop Application**
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
-
+[![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.9+-orange.svg)](https://scikit-learn.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows_10-green.svg)](https://www.microsoft.com/windows/)
 
 ---
 
@@ -70,11 +70,38 @@ python mainform.py
 ## 📁 Project Structure
 ```bash
 FinalProjectAI_SolmazKarimi/
-├── mainform.py          # Main application
-├── requirements.txt     # Dependencies
-├── README.md           # Documentation
-├── Images/             # Screenshots
-└── .gitignore
+│
+├── Images/                                    # All UI images/screenshots
+│   └── ImagesMainForm/                        # Main form images
+│
+├── Project_ClassificationKNN_SolmazKarimi/    # KNN Classification module
+│   ├── classification_knn_data/              # Dataset for KNN
+│   ├── mainFormClassificationKNN.py          # Main UI for KNN
+│   └── preProcessing_classificationKNN.py    # Preprocessing for KNN
+│
+├── Project_Clustering_SolmazKarimi/           # Clustering module
+│   ├── clustering_data/                      # Dataset for clustering
+│   ├── images_clustering/                    # Clustering result images
+│   ├── Asli_First_mainFormClustering.py     # (Optional/backup)
+│   ├── mainFormClustering.py                 # Main UI for clustering
+│   └── preProcessing.py                      # Preprocessing for clustering
+│
+├── Project_DecisionTree_SolmazKarimi/         # Decision Tree module
+│   ├── decisionTree_data/                    # Dataset for decision tree
+│   ├── mainFormDecisionTree.py               # Main UI for decision tree
+│   └── preProcessing_decisionTree.py         # Preprocessing for decision tree
+│
+├── Project_LinearRegression_SolmazKarimi/     # Linear Regression module
+│   ├── regression_data/                      # Dataset for regression
+│   ├── mainFormLinearRegression.py           # Main UI for regression
+│   └── preProcessing_regression.py           # Preprocessing for regression
+│
+├── .gitignore                                 # Git ignore file
+├── mainform.py                                # Main application entry point
+├── requirements.txt                           # Project dependencies
+├── README.md                                  # Project documentation
+├── FinalProjectAI_SolmazKarimi.zip            # Archived project (optional)
+└── ProjectAI_SolmazKarimi.mp4                 # Demo video (optional)
 ```
 
 
@@ -96,6 +123,6 @@ Clusters: 3 | Cluster 0: 136, Cluster 1: 106, Cluster 2: 232
 - Data Science Dojo – Datasets
 
 ## 📧 Contact
-- GitHub: your-username
-- Email: your-email@example.com
+- GitHub: solmazkarimics50x
+- Email: en.co.s.karimi@gmail.com
   
