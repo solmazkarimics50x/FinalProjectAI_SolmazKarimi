@@ -1,23 +1,16 @@
 # 🧠 ML-Tutorial-GUI
 
-**An Interactive Machine Learning Desktop Application**
-
 [![GitHub stars](https://img.shields.io/github/stars/solmazkarimics50x/FinalProjectAI_SolmazKarimi.svg?style=social&label=Star&maxAge=2592000)](https://github.com/solmazkarimics50x/FinalProjectAI_SolmazKarimi/stargazers)
 
 [![Python](https://img.shields.io/badge/Python-3.13+-blue.svg)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.9+-orange.svg)](https://scikit-learn.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10-green.svg)](https://www.microsoft.com/windows/)
 
-
 ---
-
-## 📖 About
+## 🎯 Project Overview
+**An Interactive Machine Learning Desktop Application**
 
 This is an interactive desktop application for learning and implementing machine learning algorithms **without coding**. Built with **Tkinter** (GUI) and Python libraries including Pandas, Scikit-learn, Matplotlib, and Seaborn.
-
-**Developed by:** Solmaz Karimi  
-**Instructor:** Mr. Vahid Ghorbani  
-**Institute:** Sematec Institute
 
 ---
 
