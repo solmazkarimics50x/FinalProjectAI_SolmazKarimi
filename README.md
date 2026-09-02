@@ -66,6 +66,8 @@ python mainform.py
 
 ## 🎥 Video Tutorial
 [![ML-Tutorial-GUI](https://img.youtube.com/vi/ukZxjXDnPFI/0.jpg)](https://youtu.be/ukZxjXDnPFI)
+
+> **👆 Click on the image above to watch the complete project demo video.**
   
 ## 📁 Project Structure
 ```bash
